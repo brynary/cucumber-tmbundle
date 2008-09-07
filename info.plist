@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Cucumber</string>
+	<key>ordering</key>
+	<array>
+		<string>4DF6C259-701F-4075-A8BF-50731F96D205</string>
+		<string>51B8A367-A650-48EF-A402-C2C6CD739538</string>
+		<string>9FF83473-BE8C-4645-9E8F-15C67165902C</string>
+	</array>
+	<key>uuid</key>
+	<string>767E5255-5857-45CF-B602-351C748EFBF5</string>
+</dict>
+</plist>

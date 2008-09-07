@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>saveActiveFile</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby
+
+require ENV['TM_BUNDLE_SUPPORT'] + "/lib/cucumber/mate"
+Cucumber::TextMate:Runner.new.run_focussed STDOUT</string>
+	<key>input</key>
+	<string>document</string>
+	<key>name</key>
+	<string>Run Single Scenario</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>scope</key>
+	<string>text.cucumber.feature</string>
+	<key>uuid</key>
+	<string>9FF83473-BE8C-4645-9E8F-15C67165902C</string>
+</dict>
+</plist>
