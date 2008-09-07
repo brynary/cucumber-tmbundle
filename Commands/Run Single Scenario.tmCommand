@@ -8,9 +8,11 @@
 	<string>#!/usr/bin/env ruby
 
 require ENV['TM_BUNDLE_SUPPORT'] + "/lib/cucumber/mate"
-Cucumber::TextMate:Runner.new.run_focussed STDOUT</string>
+Cucumber::TextMate::Runner.new.run_focussed STDOUT</string>
 	<key>input</key>
 	<string>document</string>
+	<key>keyEquivalent</key>
+	<string>@R</string>
 	<key>name</key>
 	<string>Run Single Scenario</string>
 	<key>output</key>

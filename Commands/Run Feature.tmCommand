@@ -8,9 +8,11 @@
 	<string>#!/usr/bin/env ruby
 
 require ENV['TM_BUNDLE_SUPPORT'] + "/lib/cucumber/mate"
-Cucumber::TextMate:Runner.new.run_file STDOUT</string>
+Cucumber::TextMate::Runner.new.run_file STDOUT</string>
 	<key>input</key>
 	<string>document</string>
+	<key>keyEquivalent</key>
+	<string>@r</string>
 	<key>name</key>
 	<string>Run Feature</string>
 	<key>output</key>
