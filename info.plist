@@ -2,13 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>4DF6C259-701F-4075-A8BF-50731F96D205</string>
+			<string>9FF83473-BE8C-4645-9E8F-15C67165902C</string>
+			<string>1D4466D2-BB9A-4C07-9C52-5B89ACD44681</string>
+			<string>5B4281B7-1D41-40CE-B52C-513453887919</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
 	<key>name</key>
 	<string>Cucumber</string>
 	<key>ordering</key>
 	<array>
 		<string>4DF6C259-701F-4075-A8BF-50731F96D205</string>
-		<string>51B8A367-A650-48EF-A402-C2C6CD739538</string>
 		<string>9FF83473-BE8C-4645-9E8F-15C67165902C</string>
+		<string>51B8A367-A650-48EF-A402-C2C6CD739538</string>
+		<string>A1D9D7DF-795D-40C7-9C73-D5912AB33B84</string>
 	</array>
 	<key>uuid</key>
 	<string>767E5255-5857-45CF-B602-351C748EFBF5</string>

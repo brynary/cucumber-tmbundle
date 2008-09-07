@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Feature: ${1:title}
+
+  As a ${2:role}
+  I want ${3:feature}
+  So that ${4:value}
+
+  $0
+</string>
+	<key>name</key>
+	<string>Feature</string>
+	<key>scope</key>
+	<string>text.cucumber.feature</string>
+	<key>tabTrigger</key>
+	<string>fea</string>
+	<key>uuid</key>
+	<string>5B4281B7-1D41-40CE-B52C-513453887919</string>
+</dict>
+</plist>
